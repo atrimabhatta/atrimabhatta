@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
-- 📫 How to reach me **bhattacharyyaatrima@gmail.com**
+- 📫 How to reach me **atrimabhatta@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kKAoaQ8QxaG9s4seak1CbcdmqRDczMQy/view](https://drive.google.com/file/d/1kKAoaQ8QxaG9s4seak1CbcdmqRDczMQy/view)
 
 - ⚡ Fun fact **I am also a Artist**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atrima-bhattacharyya-15111a2a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atrima-bhattacharyya-15111a2a9" height="30" width="40" /></a>
 <a href="https://fb.com/atrima bhattacharyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atrima bhattacharyya" height="30" width="40" /></a>
