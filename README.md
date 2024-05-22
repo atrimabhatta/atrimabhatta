@@ -1,3 +1,5 @@
+![Untitled](https://github.com/atrimabhatta/atrimabhatta/assets/159685040/62a1ebdf-2bda-4d56-911c-029ec25a3b8e)
+
 <h1 align="center">Hi 👋, I'm ATRI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
