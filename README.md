@@ -1,15 +1,15 @@
 ![Untitled](https://github.com/atrimabhatta/atrimabhatta/assets/159685040/62a1ebdf-2bda-4d56-911c-029ec25a3b8e)
 
 <h1 align="center">Hi 👋, I'm ATRI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atrimabhatta&label=Profile%20views&color=0e75b6&style=flat" alt="atrimabhatta" /> </p>
 
-- 🔭 I’m currently working on **THE EATING CLUB**
+- 🔭 I’m currently working on **CONFIDENTIAL EMOTION RECOGNITION WITH ANONYMIZATION AND FEDERATED DEEP LEARNING**
 
 - 🌱 I’m currently learning **Cyber Security, Node.js**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **DATA STRUCTURE,AI/ML,OOPS**
 
 - 📫 How to reach me **atrimabhatta@outlook.com**
 
