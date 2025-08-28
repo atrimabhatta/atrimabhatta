@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Confidential Emotion Recognition with Anonymization and Federated Deep Learning**  
 - 🌱 I’m currently learning **Cyber Security, Node.js**  
 - 💬 Ask me about **Data Structures, AI/ML, OOPs**  
-- 📫 Reach me at: **atrimabhatta@outlook.com**  
+- 📫 Reach me at: **atrima.bhattacharyya7642@gmail.com**  
 - 📄 Check my experiences [Here](https://drive.google.com/file/d/1kKAoaQ8QxaG9s4seak1CbcdmqRDczMQy/view)  
 - ⚡ Fun fact: **I am also an Artist 🎨**  
 
