@@ -45,9 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atrimabhatta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atrimabhatta&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atrimabhatta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -56,9 +54,11 @@
 ---
 
 ### 🚀 Fun & Extra  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atrimabhatta&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&width=435&lines=Eat+🌮+Code+💻+Sleep+😴+Repeat+🔁" alt="fun typing effect" />
 </p>
+
 
 ---
 
