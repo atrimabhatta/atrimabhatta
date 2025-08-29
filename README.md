@@ -1,4 +1,4 @@
-![Untitled](https://github.com/atrimabhatta/atrimabhatta/assets/159685040/62a1ebdf-2bda-4d56-911c-029ec25a3b8e)
+<img width="2048" height="512" alt="Gemini_Generated_Image_yxmoxqyxmoxqyxmo" src="https://github.com/user-attachments/assets/24f1dde9-482c-4837-ba08-08690824a54d" />
 
 <h1 align="center">Hi 👋, I'm ATRI</h1>
 <h3 align="center">A passionate Software Engineer from India 🇮🇳</h3>
@@ -14,7 +14,8 @@
 - 🌱 I’m currently learning **Cyber Security, Node.js**  
 - 💬 Ask me about **Data Structures, AI/ML, OOPs**  
 - 📫 Reach me at: **atrima.bhattacharyya7642@gmail.com**  
-- 📄 Check my experiences [Here](https://drive.google.com/file/d/1kKAoaQ8QxaG9s4seak1CbcdmqRDczMQy/view)  
+- 📄 Check my experiences [Here](https://drive.google.com/file/d/1po1_JOSFZpaE197qTL1x52ghnWlxu4A5/view?usp=sharing)
+  
 - ⚡ Fun fact: **I am also an Artist 🎨**  
 
 ---
