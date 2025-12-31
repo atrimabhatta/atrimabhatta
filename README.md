@@ -42,17 +42,15 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atrimabhatta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atrimabhatta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrimabhatta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
 
 ### 🚀 Fun & Extra  
 
