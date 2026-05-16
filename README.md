@@ -31,6 +31,9 @@
   <a href="https://instagram.com/__a_t_r_i_m_a__" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+ <a href="https://atrimabhattacharyya.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
 </p>
 
 ---
