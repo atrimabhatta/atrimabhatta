@@ -1,14 +1,9 @@
 
-
-<!-- ========================================================= -->
-<!--                     PROFILE HEADER                        -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Atrima Bhattacharyya
+<h1>👋 Hi, I'm Atrima Bhattacharyya</h1>
 
-### 💻 Software Engineer | Full Stack Developer | Problem Solver
+<h3>💻 Software Engineer | Full Stack Developer | Problem Solver</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+Developer;AI%2FML+Enthusiast;Always+Learning+Something+New" />
 
@@ -30,9 +25,6 @@ I'm **Atrima Bhattacharyya**, a developer who enjoys building applications,
 learning new technologies and solving real-world problems with code.
 
 > 💡 **Code. Create. Learn. Repeat.**
-
----
-
 # 🚨 Caution
 
 > 🎉 **Congratulations! You found me.**
@@ -41,7 +33,6 @@ learning new technologies and solving real-world problems with code.
 - ☕ Coffee may be required.
 - 🐛 Bugs may appear unexpectedly.
 - 🚀 New projects are always under construction.
-- 🧠 Random ideas may turn into projects.
 
 ---
 
@@ -49,17 +40,11 @@ learning new technologies and solving real-world problems with code.
 
 > 💻 **I'm currently working on web development technologies like:**
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,html,css" />
 
-</p>
-
-### Currently working with:
-
-`Java` `Spring Boot` `React` `JavaScript` `Node.js`
-
-`HTML` `CSS` `MySQL` `MongoDB`
+</div>
 
 I'm continuously improving my development skills and exploring better
 ways to build scalable and useful applications.
@@ -70,11 +55,11 @@ ways to build scalable and useful applications.
 
 > 📚 **I'm currently learning and exploring:**
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,jenkins,grafana,python,cpp,git,github" />
 
-</p>
+</div>
 
 - 🐳 Docker
 - ⚙️ Jenkins
@@ -92,208 +77,50 @@ ways to build scalable and useful applications.
 
 I never want to stop learning.
 
-```text
-        ┌───────────────┐
-        │     LEARN     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     BUILD     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     BREAK     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     DEBUG     │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    IMPROVE    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │     REPEAT    │
-        └───────────────┘
+<div align="center">
 
-My goal is to keep learning new technologies and turn ideas into real-world projects. 🚀
-
-
----
-
-💚 Tip
-
-> 🤝 Interested in collaborating?
-
-
-
-If you're interested in collaborating, have a project idea, or simply want to connect —
-
-I'd love to hear from you! ❤️
-
-<div align="center"><a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/atrimabhatta">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div>
----
-
-🛠️ Tech Stack
-
-💻 Programming Languages
-
-<p align="center"><img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css" /></p>🚀 Frameworks & Libraries
-
-<p align="center"><img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,bootstrap" /></p>🗄️ Databases
-
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>🔧 Tools
-
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,figma" /></p>
----
-
-🚀 Featured Projects
-
-<div align="center"><a href="https://github.com/atrimabhatta/age_calculator_java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atrimabhatta&repo=age_calculator_java&theme=tokyonight&hide_border=true" /></a></div>💻 What I Build
-
-🌐 Full Stack Web Applications
-
-☕ Java & Spring Boot Applications
-
-⚛️ React Applications
-
-🤖 AI/ML Projects
-
-🔐 Security-focused Applications
-
-📊 Data-driven Applications
-
-
-
----
-
-📊 GitHub Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=atrimabhatta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrimabhatta&theme=tokyonight&hide_border=true" /><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrimabhatta&layout=compact&theme=tokyonight&hide_border=true" /></div>
----
-
-🧩 GitHub Contribution Graph
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=atrimabhatta&theme=tokyo-night&hide_border=true" /></div>
----
-
-🧠 LeetCode Stats
-
-<div align="center"><img src="https://leetcard.jacoblin.cool/atrimabhatta?theme=dark&font=Baloo&ext=heatmap" /></div>
----
-
-🔥 Coding Journey
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=atrimabhatta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /></div>
----
-
-🎯 Current Focus
-
-<table>
-<tr><td width="50%" valign="top">🔨 Building
-
-Full Stack Applications
-
-Spring Boot Projects
-
-React Applications
-
-AI-powered Applications
-
-Personal Projects
-
-
-</td><td width="50%" valign="top">📚 Learning
-
-Advanced Java
-
-Spring Boot
-
-Docker
-
-Jenkins
-
-AI / ML
-
-Cybersecurity
-
-Data Structures & Algorithms
-
-
-</td></tr>
-</table>
----
-
-🌱 My Development Philosophy
-
-<div align="center">💭
-
-> "Every expert was once a beginner."
-
-
-
-<br>Learn → Build → Fail → Debug → Improve → Repeat
+**LEARN**  
+⬇️  
+**BUILD**  
+⬇️  
+**BREAK**  
+⬇️  
+**DEBUG**  
+⬇️  
+**IMPROVE**  
+⬇️  
+**REPEAT** 🚀
 
 </div>
----
 
-🎨 Beyond Coding
-
-<div align="center">🎨 Creativity	🧠 Learning	💡 Ideas	🚀 Building
-
-Creative Thinking	Continuous Learning	Problem Solving	Real Projects
-
-
-</div>I believe good software isn't only about writing code.
-
-It's about understanding problems, creating useful solutions, and continuously improving them.
-
+> 🎯 My goal is to keep learning new technologies,
+> building meaningful projects, and continuously improving.
 
 ---
 
-📫 Let's Connect
+# 💚 Tip
 
-<div align="center"><a href="https://github.com/atrimabhatta">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/atrima-bhattacharyya-15111a2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto: atrima.bhattacharyya7642@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://atrimabhattacharyya.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a></div>
----
+> 🤝 **Interested in collaborating?**
 
-📄 Resume
+If you're interested in collaborating, have a project idea,
+or simply want to connect —
 
-<div align="center"><a href="https://drive.google.com/file/d/18JeT4TLDxFKBGywMb9oT7SmnCwvYyK5m/view?usp=drivesdk"><img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-6C63FF?style=for-the-badge"/></a></div>
----
+### I'd love to hear from you! ❤️
 
-☕ Thanks for your support!
+<div align="center">
 
-<div align="center"><img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif" width="200"/><br><br>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-💜 Thanks for visiting my profile!
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-If you found something interesting here:
+<a href="https://github.com/atrimabhatta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-⭐ Star a repository
+</div>
 
-🤝 Follow me
 
-💬 Let's connect
-
-<br>Keep Coding. Keep Creating. 🚀
-
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/></div>
