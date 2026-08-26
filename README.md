@@ -1,167 +1,299 @@
+
+
+<!-- ========================================================= -->
+<!--                     PROFILE HEADER                        -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img width="100%" alt="ATRI GitHub Banner" src="https://github.com/user-attachments/assets/24f1dde9-482c-4837-ba08-08690824a54d" />
+# 👋 Hi, I'm Atrima Bhattacharyya
 
-<br>
+### 💻 Software Engineer | Full Stack Developer | Problem Solver
 
-# 👋 Hi, I'm **ATRI**
-
-### Software Engineer • AI/ML Enthusiast • Cybersecurity Learner
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Software+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+Cybersecurity+%F0%9F%94%90;Turning+Problems+Into+Projects+%F0%9F%9A%80;Code+%2B+Creativity+%3D+My+World+%F0%9F%8E%A8" alt="Typing Animation" />
-
-<br>
-
-<a href="https://atrimabhattacharyya.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0E75B6?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="https://linkedin.com/in/atrima-bhattacharyya-15111a2a9">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="mailto:atrima.bhattacharyya7642@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+Developer;AI%2FML+Enthusiast;Always+Learning+Something+New" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=atrimabhatta&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=atrimabhatta&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/atrimabhatta?label=FOLLOWERS&style=for-the-badge&color=blue" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Hello there, fellow `<coder />`! 👋
 
-Hi, I'm **Atrima Bhattacharyya**, a Software Engineer from 🇮🇳 India passionate about building meaningful software and exploring emerging technologies.
+Welcome to my GitHub profile! 🚀
 
-My interests lie at the intersection of:
+I'm **Atrima Bhattacharyya**, a developer who enjoys building applications,
+learning new technologies and solving real-world problems with code.
 
-**Software Engineering · Artificial Intelligence · Machine Learning · Cybersecurity · Creative Technology**
-
-I enjoy taking an idea from **concept → development → experimentation → deployment**, while continuously learning along the way.
-
-### 🚀 Currently Working On
-
-- 🧠 **Confidential Emotion Recognition with Anonymization & Federated Deep Learning**
-- 🤖 Privacy-preserving Artificial Intelligence
-- 🔐 Cybersecurity and secure software development
-- 🌐 Full-stack application development
-
-### 🌱 Currently Learning
-
-- **Cybersecurity**
-- **Node.js**
-- **Advanced Machine Learning**
-- **Deep Learning**
-- **Backend Development**
-
-### 💬 Ask Me About
-
-`Data Structures` · `OOP` · `Python` · `Java` · `AI/ML` · `Deep Learning`
+> 💡 **Code. Create. Learn. Repeat.**
 
 ---
 
-## 🛠️ Technology Stack
+# 🚨 Caution
 
-### 👨‍💻 Programming Languages
+> 🎉 **Congratulations! You found me.**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,html,css,js" />
-</p>
-
-### ⚙️ Frameworks & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,firebase" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,heroku" />
-</p>
-
-### 🎨 Creative Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-</p>
+- 🧨 You have officially entered my coding zone.
+- ☕ Coffee may be required.
+- 🐛 Bugs may appear unexpectedly.
+- 🚀 New projects are always under construction.
+- 🧠 Random ideas may turn into projects.
 
 ---
 
-## 🚀 Featured Work
+# ℹ️ Note
 
-### 🧠 Confidential Emotion Recognition
+> 💻 **I'm currently working on web development technologies like:**
 
-**Privacy-Preserving AI • Deep Learning • Federated Learning**
+<p align="center">
 
-Working on an AI system focused on emotion recognition while incorporating **anonymization and federated learning** to improve privacy and security.
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,nodejs,html,css" />
 
----
+</p>
 
-### 💻 Software Engineering Projects
+### Currently working with:
 
-Building practical applications using:
+`Java` `Spring Boot` `React` `JavaScript` `Node.js`
 
-`Java` · `Python` · `JavaScript` · `Node.js` · `SQL`
+`HTML` `CSS` `MySQL` `MongoDB`
 
-Focused on writing clean, maintainable and user-oriented software.
-
----
-
-### 🔐 Cybersecurity Exploration
-
-Currently expanding my knowledge of:
-
-`Cybersecurity` · `Networking` · `Security Fundamentals` · `Secure Development`
+I'm continuously improving my development skills and exploring better
+ways to build scalable and useful applications.
 
 ---
 
-## 📊 GitHub Analytics
+# 💡 Important
 
-<div align="center">
+> 📚 **I'm currently learning and exploring:**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atrimabhatta&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
+<p align="center">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,grafana,python,cpp,git,github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrimabhatta&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
 
-</div>
+- 🐳 Docker
+- ⚙️ Jenkins
+- 📊 Grafana
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔐 Cybersecurity
+- 🧩 Data Structures & Algorithms
 
 ---
 
-## 📈 My Development Journey
+# ⚠️ Warning
+
+> 💪 **Future Goals**
+
+I never want to stop learning.
 
 ```text
-LEARN
-  ↓
-BUILD
-  ↓
-EXPERIMENT
-  ↓
-SOLVE
-  ↓
-IMPROVE
-  ↓
-DEPLOY 🚀
-  ↓
-REPEAT 🔁
+        ┌───────────────┐
+        │     LEARN     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     BUILD     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     BREAK     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     DEBUG     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    IMPROVE    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     REPEAT    │
+        └───────────────┘
+
+My goal is to keep learning new technologies and turn ideas into real-world projects. 🚀
+
+
+---
+
+💚 Tip
+
+> 🤝 Interested in collaborating?
+
+
+
+If you're interested in collaborating, have a project idea, or simply want to connect —
+
+I'd love to hear from you! ❤️
+
+<div align="center"><a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/atrimabhatta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>
+---
+
+🛠️ Tech Stack
+
+💻 Programming Languages
+
+<p align="center"><img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css" /></p>🚀 Frameworks & Libraries
+
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,bootstrap" /></p>🗄️ Databases
+
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></p>🔧 Tools
+
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vscode,figma" /></p>
+---
+
+🚀 Featured Projects
+
+<div align="center"><a href="https://github.com/atrimabhatta/age_calculator_java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atrimabhatta&repo=age_calculator_java&theme=tokyonight&hide_border=true" /></a></div>💻 What I Build
+
+🌐 Full Stack Web Applications
+
+☕ Java & Spring Boot Applications
+
+⚛️ React Applications
+
+🤖 AI/ML Projects
+
+🔐 Security-focused Applications
+
+📊 Data-driven Applications
+
+
+
+---
+
+📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=atrimabhatta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrimabhatta&theme=tokyonight&hide_border=true" /><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrimabhatta&layout=compact&theme=tokyonight&hide_border=true" /></div>
+---
+
+🧩 GitHub Contribution Graph
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=atrimabhatta&theme=tokyo-night&hide_border=true" /></div>
+---
+
+🧠 LeetCode Stats
+
+<div align="center"><img src="https://leetcard.jacoblin.cool/atrimabhatta?theme=dark&font=Baloo&ext=heatmap" /></div>
+---
+
+🔥 Coding Journey
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=atrimabhatta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /></div>
+---
+
+🎯 Current Focus
+
+<table>
+<tr><td width="50%" valign="top">🔨 Building
+
+Full Stack Applications
+
+Spring Boot Projects
+
+React Applications
+
+AI-powered Applications
+
+Personal Projects
+
+
+</td><td width="50%" valign="top">📚 Learning
+
+Advanced Java
+
+Spring Boot
+
+Docker
+
+Jenkins
+
+AI / ML
+
+Cybersecurity
+
+Data Structures & Algorithms
+
+
+</td></tr>
+</table>
+---
+
+🌱 My Development Philosophy
+
+<div align="center">💭
+
+> "Every expert was once a beginner."
+
+
+
+<br>Learn → Build → Fail → Debug → Improve → Repeat
+
+</div>
+---
+
+🎨 Beyond Coding
+
+<div align="center">🎨 Creativity	🧠 Learning	💡 Ideas	🚀 Building
+
+Creative Thinking	Continuous Learning	Problem Solving	Real Projects
+
+
+</div>I believe good software isn't only about writing code.
+
+It's about understanding problems, creating useful solutions, and continuously improving them.
+
+
+---
+
+📫 Let's Connect
+
+<div align="center"><a href="https://github.com/atrimabhatta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/atrima-bhattacharyya-15111a2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto: atrima.bhattacharyya7642@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://atrimabhattacharyya.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a></div>
+---
+
+📄 Resume
+
+<div align="center"><a href="https://drive.google.com/file/d/18JeT4TLDxFKBGywMb9oT7SmnCwvYyK5m/view?usp=drivesdk"><img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-6C63FF?style=for-the-badge"/></a></div>
+---
+
+☕ Thanks for your support!
+
+<div align="center"><img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif" width="200"/><br><br>
+
+💜 Thanks for visiting my profile!
+
+If you found something interesting here:
+
+⭐ Star a repository
+
+🤝 Follow me
+
+💬 Let's connect
+
+<br>Keep Coding. Keep Creating. 🚀
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/></div>
