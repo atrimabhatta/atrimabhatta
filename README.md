@@ -491,6 +491,9 @@ I believe growth comes from continuously learning, experimenting, and building.
 I'm always open to connecting, collaborating, and discussing new ideas. 🚀
 
 <br>
+<a href="https://YOUR-PORTFOLIO-URL.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <a href="https://github.com/atrimabhatta">
 <img src="https://img.shields.io/badge/GitHub-atrimabhatta-181717?style=for-the-badge&logo=github&logoColor=white" />
