@@ -465,7 +465,7 @@ I believe growth comes from continuously learning, experimenting, and building.
 - 📚 Keep learning new technologies and development practices
 
 ### 💡 My Learning Philosophy
-<div>
+
 ```text
         LEARN
           ↓
@@ -482,7 +482,6 @@ I believe growth comes from continuously learning, experimenting, and building.
         REPEAT 🔄
 ```
 🌱 I never want to stop learning.
-</div>
 
 🚀 My goal is to keep learning new technologies and turning ideas into useful applications.
 ---
