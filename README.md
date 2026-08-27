@@ -1,8 +1,6 @@
-<!-- ========================================================= -->
-<!--                     PROFILE HEADER                        -->
-<!-- ========================================================= -->
 
 <div align="center">
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/57645ae6-3c62-4929-a7e5-b44cae803439" />
 
 # 👋 Hi, I'm Atrima Bhattacharyya
 
@@ -483,7 +481,7 @@ I believe growth comes from continuously learning, experimenting, and building.
 ```
 🌱 I never want to stop learning.
 
-🚀 My goal is to keep learning new technologies and turning ideas into useful applications.
+### 🚀 My goal is to keep learning new technologies and turning ideas into useful applications.
 ---
 
 # 🤝 Let's Connect
@@ -539,10 +537,6 @@ I'm always open to connecting, collaborating, and discussing new ideas. 🚀
 
 <br>
 
-### ⭐ Thanks for visiting my GitHub profile!
-
-**Let's build something awesome together. 🚀**
-
 </div>
 
 ---
@@ -550,5 +544,37 @@ I'm always open to connecting, collaborating, and discussing new ideas. 🚀
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%92%BB;Keep+Growing+%F0%9F%8C%B1" />
+
+</div>
+
+
+# ☕ Contributors
+
+<div align="center">
+
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/a0cc7f78-9e08-45ea-87f2-6823ec176c28" alt="Thanks for your support" width="100%" />
+
+<br><br>
+
+<a href="#-hi-im-atrima-bhattacharyya">
+<img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-0969DA?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Let's build something awesome together. 🚀**
+
+⭐ If you like my work, consider giving my repositories a star.
+
+<br>
+
+**💻 Build → 🧠 Learn → 🚀 Grow → 🔁 Repeat**
 
 </div>
